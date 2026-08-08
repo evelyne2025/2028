@@ -17,6 +17,6 @@ spec:
     spec: 
       containers:
       - name: green-app
-        image: ebonje/nginx:version1
+        image: eveojong/java-maven-app:1.1
         ports:
         - containerPort: 80
